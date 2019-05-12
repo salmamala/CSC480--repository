@@ -1,0 +1,120 @@
+html {
+	background-image: url("https://spiritualacceleration.com/wp-content/uploads/2015/05/deep-crimson-red-seamless-grunge-textures-26.jpg");
+	font-family: Arial, "Times New Roman", "Calibri";
+	line-height: 1.5;
+	font-size: 18px;
+}
+
+body {
+	background-color: white;
+	width: 1488px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+header {
+	background-color: black;
+	color: white;
+	height: 80px;
+	width: 1490px;
+	text-align: center;
+}
+
+#ASCElogo {
+	height: 40px;
+	padding-left: 150px;
+}
+
+#SMUlogo {
+	height: 45px;
+}
+
+header p {
+	font-size: 55px;
+}
+
+#about {
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px;
+}
+
+#subscribe {
+	text-align: center;
+}
+
+#subscribeButton {
+	margin: 0 auto;
+	font-size: 24px;
+}
+
+form {
+	width: 380px;
+	margin: 0 auto;
+	text-align: right;
+	padding-right: 100px;
+}
+
+input {
+	text-align: right
+}
+
+label {
+	text-align: right;
+}
+
+main {
+	width: 1484px;
+	height: 1150px;
+	border-style: solid;
+}
+
+.navliBackground {
+	height: 43px;
+	width: 1428px;
+	background-color: #700101;
+	margin-bottom: 20px;
+	margin: 20px;
+}
+
+#navul {
+	padding: 0px;
+}
+
+.navli {
+	width: 300px;
+	padding-top: 10px;
+	margin: 0 auto;
+	list-style-type: none;
+	text-align: center;
+}
+
+.navli a {
+	color: #BFF7FF;
+}
+
+#descBackground {
+	height: 347px;
+	width: 1428px;
+	background-color: #E8E8E8;
+	margin: 20px;
+	padding-bottom: 50px;
+}
+
+#description {
+	width: 900px;
+	margin: 0 auto;
+	border-style: solid;
+	border-color: black;
+	padding: 30px;
+}
+
+#footer {
+	text-align: center;
+	font-size: 12px;
+	color: grey;
+	border-top-style: solid;
+	border-width: 2px;
+	border-color: lightgrey;
+	padding-top: 10px;
+}
